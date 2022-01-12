@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Mutant-Apes-Undead/static/css/main.3e0917dc.css",
+    "main.css": "/Mutant-Apes-Undead/static/css/main.b009c002.css",
     "main.js": "/Mutant-Apes-Undead/static/js/main.e7c97a01.js",
     "static/js/787.453cf56f.chunk.js": "/Mutant-Apes-Undead/static/js/787.453cf56f.chunk.js",
     "static/media/apes1.gif": "/Mutant-Apes-Undead/static/media/apes1.93bb2ae45eb9cca6f060.gif",
     "static/media/header.png": "/Mutant-Apes-Undead/static/media/header.e9260f2c900e09424445.png",
     "static/media/logo.png": "/Mutant-Apes-Undead/static/media/logo.e050912b8aa6e55ab43f.png",
     "index.html": "/Mutant-Apes-Undead/index.html",
-    "main.3e0917dc.css.map": "/Mutant-Apes-Undead/static/css/main.3e0917dc.css.map",
+    "main.b009c002.css.map": "/Mutant-Apes-Undead/static/css/main.b009c002.css.map",
     "main.e7c97a01.js.map": "/Mutant-Apes-Undead/static/js/main.e7c97a01.js.map",
     "787.453cf56f.chunk.js.map": "/Mutant-Apes-Undead/static/js/787.453cf56f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e0917dc.css",
+    "static/css/main.b009c002.css",
     "static/js/main.e7c97a01.js"
   ]
 }
