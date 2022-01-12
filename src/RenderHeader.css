@@ -1,6 +1,7 @@
 .render-header {
     width: 100%;
     height: 100%;
+    position: relative;
 }
 
 .render-header img {
@@ -18,4 +19,13 @@
     padding: 20px 30px;
     color: black;
     font-weight: bold;
+}
+
+@media (max-width: 600px) {
+    .render-header a {
+        padding: 5px 10px;
+    }    
+    .render-header {
+        height: 200%;
+    }
 }
